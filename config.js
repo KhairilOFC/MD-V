@@ -91,7 +91,7 @@ global.titlebot = `Khairil春`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.stickpack = 'Kao Akebi-Bot愛'
-global.stickauth = `© Vincenzoo``
+global.stickauth = `© Vincenzoo`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
