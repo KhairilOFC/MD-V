@@ -293,16 +293,16 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg'
-global.imagebot = 'https://telegra.ph/file/0bc5b9caa2f17e85c9816.jpg'
+global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/80d301bd09d999db46c54.jpg']
+global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
