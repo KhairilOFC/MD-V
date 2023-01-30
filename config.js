@@ -107,7 +107,7 @@ global.intro = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https:/linkfly.to/Khairil'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -300,8 +300,8 @@ global.fotonya2 = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' //ini juga
 
 global.thumb = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg'
 global.imagebot = 'https://telegra.ph/file/0bc5b9caa2f17e85c9816.jpg'
-global.giflogo = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
-global.zykomd = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
+global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
+global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
 global.thumbs = ['https://telegra.ph/file/a8518e555f913b7c9cefb.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
