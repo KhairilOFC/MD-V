@@ -299,7 +299,7 @@ global.fotonya2 = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' //ini juga
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.thumb = 'https://telegra.ph/file/080800b782b2593660f07.jpg' 
-global.imagebot = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg'
+global.imagebot = 'https://telegra.ph/file/0bc5b9caa2f17e85c9816.jpg'
 global.giflogo = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
 global.zykomd = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
 global.thumbs = ['https://telegra.ph/file/a8518e555f913b7c9cefb.jpg']
