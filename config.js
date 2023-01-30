@@ -47,30 +47,30 @@ global.tautanwa = 'https://wa.me/message/MUUP3FHJ3MLOC1'
 global.sgh = 'https://github.com/KhairilOFC' //github
 global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/@khairilofc'
+global.syt = 'https://youtube.com/@khairilofc'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
-global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.snh = 'https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T'
+global.media = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg'
+global.wame = 'https://wa.me/message/MUUP3FHJ3MLOC1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['60109102984', 'Vincenzoo`', true],
+['601124024797', 'Kao Akebi-Bot愛', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '601124024797' //pasang no bot lo 
+global.nomorown = '60109102984' //pasang no own lo
+global.nomorown1 = '60109102984'
+global.nomorown2 = '60109102984'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Vincenzoo`'
+global.gcname = 'gcbot'
+global.author = 'Created By Vincenzoo`'
+global.namabot = 'Kao Akebi-Bot愛'
+global.namebot = 'Kao Akebi-Bot愛'
+global.packname2 = 'Vincenzoo`'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
