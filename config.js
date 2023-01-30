@@ -43,55 +43,55 @@ const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/coglah_07'
-global.tautanwa = 'https://wa.me/60109102984'
+global.tautanwa = 'https://wa.me/message/MUUP3FHJ3MLOC1'
 global.sgh = 'https://github.com/KhairilOFC' //github
-global.sgc = 'https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@khairiofc'
-global.syt = 'https://youtube.com/@khairilofc'
-global.sfb = '-' // facebook
-global.snh = 'https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T'
-global.media = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg'
-global.wame = 'https://wa.me/60109102984'
+global.linkyt = 'https://youtube.com/@zykobotz'
+global.syt = 'https://youtube.com/@zykobotz'
+global.sfb = 'https://www.facebook.com/' // facebook
+global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['60109102984', 'Vincenzoo`', true],
-['601124024797', 'Kao Akebi-Bot愛', true]
+['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '601124024797' //pasang no bot lo 
-global.nomorown = '60109102984' //pasang no own lo
-global.nomorown1 = '60109102984'
-global.nomorown2 = '60109102984'
-global.nomorwa = '60109102984'
-global.nameown = 'Vincenzoo`'
-global.gcname = 'kontol'
-global.author = 'Created By Kao Akebi-Bot愛'
-global.namabot = 'Kao Akebi-Bot愛'
-global.namebot = 'Kao Akebi-Bot愛'
-global.packname2 = 'Khairil春'
+global.nomorbot = '62XXX' //pasang no bot lo 
+global.nomorown = '62XXX' //pasang no own lo
+global.nomorown1 = '62XXX'
+global.nomorown2 = '62XXX'
+global.nomorwa = '0'
+global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'Khairil春'
-global.nameown2 = 'Vincenzoo`'
+global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© Kao Akebi-Bot愛'
-global.wm2 = 'Vincenzoo`'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `Kao Akebi-Bot愛`
+global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'Kao Akebi-Bot愛'
-global.stickauth = `© Vincenzoo``
+global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -102,27 +102,27 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg'
+global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://linkfly.to/Khairil'
+global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '-' //pasang no lo sinih buat donasi 
-global.povo = '-' 
-global.pgopay = '-'
+global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
+global.povo = '08XXXXXXXXXX' 
+global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
-global.donasikabul = '-',
+global.ppulsa = '08XXXXXXXXXX'
+global.ppulsa2 = '08XXXXXXXXXX'
+global.psaweria = 'https://saweria.co/hyuura'
+global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = '├ 7 Hari MYR 5\n├ 1 BULAN MYR 10\n├ 2 BULAN MYR 20'
+global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -293,16 +293,16 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/080800b782b2593660f07.jpg' 
-global.imagebot = 'https://telegra.ph/file/0bc5b9caa2f17e85c9816.jpg'
-global.giflogo = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
-global.zykomd = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
-global.thumbs = ['https://telegra.ph/file/a8518e555f913b7c9cefb.jpg']
+global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' 
+global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
+global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
+global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
+global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -344,11 +344,11 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/coglah_07"
+global.urlnya = "https://www.instagram.com/kabulsaputra21"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '60109102984'
+global.phn = '6282124690625'
 
-global.thumbdoc = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg'
+global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
