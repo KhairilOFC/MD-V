@@ -122,7 +122,7 @@ global.donasikabul = '-',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = '├ 7 Hari RM 5\n├ 1 BULAN RM 10\n├ 2 BULAN RM RM 20'
+global.ListHargaSewa = '├ 7 Hari MYR 5\n├ 1 BULAN MYR 10\n├ 2 BULAN MYR 20'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
