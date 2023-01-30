@@ -74,24 +74,24 @@ global.packname2 = 'Vincenzoo`'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'Vincenzoo`'
+global.nameown2 = 'Khairil春'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© Kao Akebi-Bot愛'
+global.wm2 = 'Vincenzoo`'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `Khairil春`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'Kao Akebi-Bot愛'
+global.stickauth = `© Vincenzoo``
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -102,27 +102,27 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
+global.intro = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://linkfly.to/Khairil'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '-' //pasang no lo sinih buat donasi 
+global.povo = '-' 
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = '-'
+global.donasikabul = 'Jasa Sewa Kao Akebi-Bot愛',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 7 Hari MYR 5\n├ 1 BULAN MYR 10\n├ 2 BULAN MYR 20'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -293,16 +293,16 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ THUMBNAIL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.fotonya1 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/18b172a2155cbcc3a1903.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' //ini juga ganti 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ Main Thumbnail ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.thumb = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg' 
-global.imagebot = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
-global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
-global.thumbs = ['https://telegra.ph/file/2e8d2ef0926e848626a43.jpg']
+global.thumb = 'https://telegra.ph/file/80d301bd09d999db46c54.jpg' 
+global.imagebot = 'https://telegra.ph/file/0bc5b9caa2f17e85c9816.jpg
+global.giflogo = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
+global.zykomd = 'https://telegra.ph/file/9fff3a3cd27c7b6c932da.mp4'
+global.thumbs = ['https://telegra.ph/file/a8518e555f913b7c9cefb.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -344,9 +344,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/coglah_07"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282124690625'
+global.phn = '60109102984'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
